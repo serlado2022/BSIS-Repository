@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to BSIS Repository
+###Ser Lado Module Archive Downloadable Modules
+College of Bussiness Education and Information System
 
-You can use the [editor on GitHub](https://github.com/serlado2022/modules/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Please select Courses to download
+[BSIS 4 - Systems Administration](https://drive.google.com/file/d/1L1JTuo6CrsOQhmQTHgwnmid7W5CWroYT/view?usp=sharing) 
 
-# Header 1
-## Header 2
-### Header 3
+#This website is intended only for the College of BEIS.
+##You can find books here as well. 
 
-- Bulleted
-- List
+Click [here](https://www.pdfdrive.com) to free e-books!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### CSAP Links
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serlado2022/modules/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[CSAP Portal for Students](https://portal.csap.edu.ph/aims/students)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### This archive is developed by Mark John P. Lado, Copyright 2022
+
