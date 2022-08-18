@@ -8,8 +8,8 @@ Please select Courses to download
 
 - [BSIS 4 - Systems Administration](https://drive.google.com/file/d/1L1JTuo6CrsOQhmQTHgwnmid7W5CWroYT/view?usp=sharing)
 - [BSIS 1 - Computer Programming](https://drive.google.com/file/d/1lotiGu-th3GEWWZ2u9HWifY80jJE765X/view?usp=sharing)
-- [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf) 
-
+- [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+- [IS PROJECT MANAGEMENT 2](https://drive.google.com/file/d/1cd-sqXDdK3TGx-ZoHZMELfn9R5SBNudD/view?usp=sharing)
 
 *******************************
 
