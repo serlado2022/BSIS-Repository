@@ -1,7 +1,6 @@
 ## Welcome to BSIS Repository
-```markdown
+
 College of Bussiness Education and Information System
-```
 
 
 Please select Courses to download
@@ -27,5 +26,7 @@ Click [here](https://www.pdfdrive.com) to browse free e-books!
 
 This website is intended only for the College of BEIS.
 
-### This archive is developed by Mark John P. Lado, Copyright 2022
+```markdown
+This archive is developed by Mark John P. Lado, Copyright 2022
+```
 
