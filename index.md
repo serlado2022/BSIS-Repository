@@ -22,7 +22,8 @@ Please select Courses to download
 - [BSIS 1 - Computer Programming](https://drive.google.com/file/d/1lotiGu-th3GEWWZ2u9HWifY80jJE765X/view?usp=sharing)
 - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - [IS PROJECT MANAGEMENT 2](https://drive.google.com/file/d/1cd-sqXDdK3TGx-ZoHZMELfn9R5SBNudD/view?usp=sharing)
-
+- [Capstone Project Sample](https://drive.google.com/drive/folders/1_saMaWrr2iR7Sr_jsY8OCN_DzLP5rZbk?usp=sharing)
+- 
 *******************************
 
 
