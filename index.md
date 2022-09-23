@@ -3,17 +3,6 @@
 College of Bussiness Education and Information System
 
 *******************************
-### ACQUAINTANCE ATTENDANCE
-CLICK THE LINK BELOW
-- [ATTENDANCE](https://forms.gle/UyL8vcxFXzpfk1o36)
-
-*******************************
-### SHARE YOUR EXPERIENCE BY UPLOADING PHOTOS!
-CLICK
-- [UPLOAD NOW](https://forms.gle/j1114dMzLJHNu687A)
-
-
-*******************************
 
 
 Please select Courses to download
